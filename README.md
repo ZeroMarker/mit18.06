@@ -12,3 +12,8 @@ MIT 18.06 Linear Algebra
 [Geogebra Book](https://www.geogebra.org/m/pqzbahxd)
 
 [Overleaf Book](https://www.overleaf.com/4958533691jcnkcwjftwxf#4a050c)
+
+[MIT 18.06 线性代数总结（Part I）](https://blog.csdn.net/xlinsist/article/details/78951762)
+
+[MIT 18.06 线性代数笔记](https://linalg.apachecn.org/)
+
