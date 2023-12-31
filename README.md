@@ -17,3 +17,6 @@ MIT 18.06 Linear Algebra
 
 [MIT 18.06 线性代数笔记](https://linalg.apachecn.org/)
 
+[【完整版-麻省理工-线性代数】全34讲+配套教材](https://www.bilibili.com/video/BV1ix411f7Yp/)
+
+
